@@ -3,7 +3,7 @@
 **Tools Used:** Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook  
 **Duration:** April 2025  
 **Dataset:** Student, Course Activity, and Feedback Data (CSV files)  
-**Project Type:** Internship Assignment
+
 
 ---
 
