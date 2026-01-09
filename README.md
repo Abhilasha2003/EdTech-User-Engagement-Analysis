@@ -1,4 +1,4 @@
-# 🎓 EdTech User Engagement Analysis
+#  EdTech User Engagement Analysis
 
 **Tools Used:** Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook  
 **Duration:** April 2025  
@@ -7,13 +7,13 @@
 
 ---
 
-## 🔍 Objective
+## Objective
 
 To analyze user engagement on an ed-tech platform by exploring student behavior, course participation, and feedback ratings. The aim was to identify trends, highlight inactive users, and provide actionable insights to improve learning experience and platform usage.
 
 ---
 
-## 📊 Key Features
+##  Key Features
 
 - Cleaned and merged data from three CSV files:
   - `students.csv`: demographic and enrollment data
@@ -30,7 +30,7 @@ To analyze user engagement on an ed-tech platform by exploring student behavior,
 
 ---
 
-## 📈 Insights & Impact
+##  Insights & Impact
 
 - **Course A** had the highest engagement, followed by **Course C**
 - **Female students** showed slightly higher average activity time
@@ -39,6 +39,6 @@ To analyze user engagement on an ed-tech platform by exploring student behavior,
 
 ---
 
-## ✅ Outcome
+##  Outcome
 
 Summarized all insights into a 5-slide presentation with 3 strategic recommendations, helping the team understand usage patterns and optimize learning outcomes on their platform.
